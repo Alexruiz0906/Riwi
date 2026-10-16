@@ -1,0 +1,4 @@
+numero: 002
+cliente: Luis torres
+valor: 450.000
+estado: pendiente

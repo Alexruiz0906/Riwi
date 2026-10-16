@@ -1,0 +1,3 @@
+Prueba 1: Pagina web alojada en servidor(fallido)
+Prueba 2: Base de datos de clientes borrada
+Prueba 3: Nueva base de datos creada, pagina web alojada en la nube

@@ -1,0 +1,4 @@
+nombre: Marta torres
+empresa: panaderia Aurora
+estado: activo
+correo ficticio: Marta@example.com

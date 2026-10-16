@@ -1,0 +1,4 @@
+nombre: luis torres
+empresa: panaderia Aurora
+estado: activo 
+correo ficticio: luis@example.com

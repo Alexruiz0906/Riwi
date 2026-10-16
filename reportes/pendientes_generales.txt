@@ -1,0 +1,3 @@
+pendiente: realizar inventario
+pendiente: asear la panaderia
+pendiente: reunion

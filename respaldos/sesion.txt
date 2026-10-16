@@ -1,0 +1,5 @@
+Script started on 2026-10-13 21:24:30-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="206" LINES="47"]
+]666;vte.shell.postexec=0\]7;file://RW-0365/home/cohorte8/Documents/Proyectos/Riwi/respaldos\]0;cohorte8@RW-0365:~/Documents/Proyectos/Riwi/respaldos\]666;vte.shell.precmd!\[?2004h]0;cohorte8@RW-0365: ~/Documents/Proyectos/Riwi/respaldos[01;32mcohorte8@RW-0365[00m:[01;34m~/Documents/Proyectos/Riwi/respaldos[00m$ exit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+
+Script done on 2026-10-13 21:24:40-05:00 [COMMAND_EXIT_CODE="0"]

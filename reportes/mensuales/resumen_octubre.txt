@@ -1,0 +1,4 @@
+Ana dejo de ser cliente activo mover a Inactivos
+Factura 001 pagada, actualizar la novedad
+Proyecto movil cancelado archivar
+Reporte mes de octubre creado

@@ -1,0 +1,5 @@
+carlos: "el horno no esta calentando lo suficiente"
+Sara: "llamare al tecnico para que lo solucione"
+sara: "las ventas estan bajando"
+carlos: "es por la calidad de la harina"
+sara: "el lo que nos podemos costear"
